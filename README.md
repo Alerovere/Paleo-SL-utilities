@@ -16,3 +16,4 @@ With these three inputs, the script calculates long-term uplift rates with the f
 3. The calculation of the rate is iterated 1.000.000 times with the formula (RSL − GIA − ESL)/Time
 
 A histogram plot is then drawn, together with percentile bounds
+This script was used to calculate values for the discussion of some sea level data vs VLM in Hearty et al. (submitted), Paleoceanography and Paleoclimatology.
