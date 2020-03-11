@@ -18,4 +18,3 @@ With these three inputs, the script calculates long-term uplift rates with the f
 A histogram plot is then drawn, together with percentile bounds
 This script was used to calculate values for the discussion of some sea level data vs VLM in Hearty et al. (submitted), Paleoceanography and Paleoclimatology.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alerovere/Paleo-SL-utilities.git/master?urlpath=https%3A%2F%2Fgithub.com%2FAlerovere%2FPaleo-SL-utilities%2Fblob%2Fmaster%2FVLM_Simple%2FSea%2520level%2520calculations.ipynb)
