@@ -2,6 +2,8 @@
 This repository contains a variety of sea level calculation utilities related to paleo sea level changes, used in different papaers published or in preparation.
 
 ## Folder "VLM Simple"
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alerovere/Paleo-SL-utilities.git/master?filepath=VLM_Simple%2FSea%20level%20calculations.ipynb)
+
 This folder contains a simple Jupyter notebook that calculates long-term vertical land motion (VLM) rates from three inputs:
 
 1. An eustatic sea level (ESL) estimate for a given time period (interval, with max-min)
