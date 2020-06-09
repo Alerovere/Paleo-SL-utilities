@@ -20,3 +20,5 @@ With these three inputs, the script calculates long-term uplift rates with the f
 A histogram plot is then drawn, together with percentile bounds
 This script was used to calculate values for the discussion of some sea level data vs VLM in Hearty et al. (2020), Paleoceanography and Paleoclimatology: https://doi.org/10.1029/2019PA003835
 
+## Folder "ESL Calculations"
+Work in progress, script to calculate ESL given RSL, GIA and tectonic corrections.
