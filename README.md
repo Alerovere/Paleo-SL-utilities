@@ -22,4 +22,9 @@ A histogram plot is then drawn, together with percentile bounds.
 Version 1.3 of this script was used to calculate values for the discussion of some sea level data vs VLM in Hearty et al. (2020), https://doi.org/10.1029/2019PA003835
 
 ## Folder "ESL Calculations"
-Work in progress, script to calculate ESL given RSL, GIA and tectonic corrections.
+This script calculates global mean sea level from paleo RSL data and estimates of GIA and vertical land motions for two sea level indicators, and compares the results to a set of reference values.  
+
+1. Paleo Relative Sea Level (RSL) and associated uncertainty.
+2. Glacial Isostatic Adjustment (GIA) prediction and associated standard deviation
+3. Vertical land motion (VLM) rate and associated uncertainty
+4. Age and associated uncertainty
