@@ -1,5 +1,5 @@
 # Paleo sea level utilities
-This repository contains a variety of sea level calculation utilities related to paleo sea level changes, used in different papaers published or in preparation.
+This repository contains a variety of sea level calculation utilities related to paleo sea level changes, used in different papers published or in preparation.
 
 ## Folder "VLM Simple"
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alerovere/Paleo-SL-utilities.git/master?filepath=VLM_Simple%2FSea%20level%20calculations.ipynb)
