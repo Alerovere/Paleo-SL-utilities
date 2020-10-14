@@ -2,7 +2,6 @@
 This repository contains a variety of sea level calculation utilities related to paleo sea level changes, used in different papers published or in preparation.
 
 ## Folder "VLM Simple"
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alerovere/Paleo-SL-utilities.git/master?filepath=VLM_Simple%2FSea%20level%20calculations.ipynb)
 
 This folder contains a simple Jupyter notebook that calculates long-term vertical land motion (VLM) rates from four inputs:
 
@@ -28,7 +27,7 @@ This folder contains a Jupyter notebook that calculates global mean sea level fr
 4. Age and associated uncertainty
 
 ## Folder "Sea Level Curves"
-This script compares published sea-level curves with sea-level observations organised into a pandas dataframe.
+This script compares published sea-level curves with sea-level observations.
 
 ## Papers using the scripts contained in these folders.
 Version 1.3 of this repository was used to calculate values for the discussion of some sea level data vs VLM in Hearty et al. (2020), https://doi.org/10.1029/2019PA003835
