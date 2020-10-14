@@ -29,8 +29,6 @@ This folder contains a Jupyter notebook that calculates global mean sea level fr
 ## Folder "Sea Level Curves"
 This script compares published sea-level curves with sea-level observations.
 At present, the following sea level curves are available:
-## Sea level curves
-The script plots the following curves.
 
 ### de Boer et al., 2014
 *de Boer, B., et al. (2014) Persistent 400,000-year variability of Antarctic ice volume and the carbon cycle is revealed throughout the Plio-Pleistocene. Nature Communications 5, 2999.*
