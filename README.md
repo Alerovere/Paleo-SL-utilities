@@ -91,3 +91,5 @@ Retrieved from PANGAEA: https://doi.pangaea.de/10.1594/PANGAEA.923126
 Version 1.3 of this repository was used to calculate values for the discussion of some sea level data vs VLM in Hearty et al. (2020), https://doi.org/10.1029/2019PA003835
 
 Version 1.4 of this repository was used in the first version of Rovere et al (2020), https://eartharxiv.org/ycp6t/
+
+Version 1.5 of this repository was used in the final version of Rovere et al (2020), https://eartharxiv.org/ycp6t/
