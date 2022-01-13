@@ -1,6 +1,8 @@
 # Paleo sea level utilities
 This repository contains a variety of sea level calculation utilities related to paleo sea level changes, used in different papers published or in preparation.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4091380.svg)](https://doi.org/10.5281/zenodo.4091380)
+
 ## Folder "VLM Simple"
 
 This folder contains a simple Jupyter notebook that calculates long-term vertical land motion (VLM) rates from four inputs:
